@@ -1,0 +1,5 @@
+¿Qué hace esta ruta?
+Esta ruta recibe información enviada por un usuario y crea o registra un reporte en el servidor. Como utiliza el método POST, está diseñada para recibir datos en lugar de mostrarlos directamente en el navegador.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Podría utilizarse para que los ciudadanos envíen reportes sobre problemas o situaciones de interés para la comunidad, como daños en las vías, fallas en el alumbrado público, acumulación de basura, emergencias o solicitudes de ayuda. La información recibida puede almacenarse y ser revisada por las personas responsables de atender estos casos.

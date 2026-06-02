@@ -1,0 +1,11 @@
+Pruebas de rutas
+
+1. http://localhost:3000
+   Muestra la página principal o el mensaje definido para la ruta raíz (/).
+
+2. http://localhost:3000/saludo
+   Muestra un saludo configurado en la ruta /saludo.
+
+3. http://localhost:3000/mensaje/juan
+   Utiliza un parámetro dinámico. En este caso, toma el valor "juan" y muestra un mensaje personalizado dirigido a esa persona.
+   
